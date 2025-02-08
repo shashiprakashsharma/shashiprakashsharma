@@ -2,7 +2,7 @@
  
 -                                                     **👋 Hi, I’m Shashi Prakash Sharma**
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript c++ Dsa 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shashiprakashsharma2003@gmail.com
 
