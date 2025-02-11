@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript c++ Dsa 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shashiprakashsharma2003@gmail.com
+![Leetcode Stats](https://leetcard.jacoblin.cool/shashi2003?ext=heatmap)
 
 <!---
 shashiprakashsharma/shashiprakashsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/shashi2003?ext=heatmap)
 --->
