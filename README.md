@@ -1,5 +1,4 @@
-[-![WhatsApp Image 2022-12-09 at 16 59 06](https://user-images.githubusercontent.com/115985929/206693071-05e49711-37c9-4aa3-8935-fd4210c063c4.jpg)](https://drive.google.com/file/d/1xH9uk3HIMHV6nxLkq5QmqH9aDkvASVcl/view?usp=sharing)
- 
+https://drive.google.com/file/d/1xH9uk3HIMHV6nxLkq5QmqH9aDkvASVcl/view?usp=sharing 
 -                                                     **👋 Hi, I’m Shashi Prakash Sharma**
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS, Javascript c++ Dsa 
